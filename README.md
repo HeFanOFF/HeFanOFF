@@ -6,6 +6,4 @@
 
 📚 Sharing the Journey. Documenting my learning path, experiments, and tutorials.
 
-⚙️ Automation Advocate.
-
 🔧 From Scripts to Pipelines | Growing my skills from Bash/Python to full DevOps toolchains.
